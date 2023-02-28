@@ -1,7 +1,8 @@
 # twitter-atuo-retweet
 Twitter Retweet Otomasyon Sistemi
 
-<h5>First, install this add-on in your browser.</h5>
+<h2>First, install this add-on in your browser.</h2>
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
-
+<h2>and then install the script from greasyfork</h2>
+https://greasyfork.org/tr/scripts/460945-twitter-auto-retweet
