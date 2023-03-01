@@ -1,4 +1,4 @@
-# twitter-atuo-retweet
+# Twitter Auto Retweet
 Twitter Retweet Otomasyon Sistemi
 
 <h2>First, install this add-on in your browser.</h2>
